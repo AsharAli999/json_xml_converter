@@ -22,7 +22,7 @@ const Header = () => {
               <a href="#" class="text-lg font-semibold text-indigo-500">Home</a>
               <a href="https://github.com/AsharAli999" class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700">Github</a>
               <a href="https://www.linkedin.com/in/asharali999/" class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700">Linked In</a>
-              <a href="#" class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700">Give it a star</a>
+              <a href="https://github.com/AsharAli999/json_xml_converter" class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700">Give it a star</a>
             </nav>
             {/* <!-- nav - end --> */}
 

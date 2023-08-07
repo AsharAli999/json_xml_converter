@@ -3,6 +3,7 @@ import Header from './Header';
 import Conversion from './Conversion';
 import Gallery from './Gallery';
 import Footer from './Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Conversion />
       <Gallery />
       <Footer />
+      <Analytics />
     </div>
   );
 }
